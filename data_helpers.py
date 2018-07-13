@@ -6,6 +6,8 @@ import random
 import numpy as np
 
 
+
+print()
 # Read the data into a list of strings.
 def read_data(filename):
     print('load corpus.')
